@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Matthew Docherty
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in AstroInformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Mullard Space Science Laboratory,
+    url: https://www.ucl.ac.uk/mssl/people/matthew-docherty
+  - name: University College London
+    url: https://iris.ucl.ac.uk/iris/browse/profile?upi=MMDOX22
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Bayesian statistics and deep learning applied to cosmology and time domain astrophysics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian Deep Learning
+  - Likelihood-free Inference
+  - AI for Big Data
+  - Cosmology
+  - Gravitational Wave Astrophysics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in AstroInformatics
+      institution: Mullard Space Science Laboratory, UCL
+      year: 2021-2025
+    - course: MSci Physics with Astrophysics
+      institution: University of Glasgow
+      year: 2016-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +43,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:matthew.docherty.21@ucl.ac.uk'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mdochertyastro
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=CJWk9dIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mdochertyastro
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mdochertyastro
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +71,4 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+1st year Graduate Student working as part of the [AstroInfo Team @ UCL](http://www.jasonmcewen.org/team/) with [Prof. Jason McEwen](http://www.jasonmcewen.org/) and [Dr Alessio Spurio Mancini](https://www.ucl.ac.uk/astrophysics/people/dr-alessio-spurio-mancini).
