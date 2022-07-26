@@ -76,4 +76,4 @@ email: ''
 highlight_name: true
 ---
 
-1st year Graduate Student working as part of the [AstroInfo Team @ UCL](http://www.jasonmcewen.org/team/) with [Prof. Jason McEwen](http://www.jasonmcewen.org/) and [Dr Alessio Spurio Mancini](https://www.ucl.ac.uk/astrophysics/people/dr-alessio-spurio-mancini).
+1st year Graduate Student working as part of the [AstroInfo Team @ UCL](http://www.jasonmcewen.org/team/) with [Prof. Jason McEwen](http://www.jasonmcewen.org/) and [Dr Alessio Spurio Mancini](https://www.alessiospuriomancini.com/).
