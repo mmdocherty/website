@@ -55,7 +55,7 @@ links:
 url_code: "https://github.com/astro-informatics/harmonic"
 # url_pdf: "slides/bdl_paris.pdf"
 url_slides: "slides/bdl_paris.pdf"
-# url_video: ""
+url_video: "https://www.youtube.com/watch?v=YBECAHFurGc&list=PLywBH0_7tBJ9BG2nKodRdn6ReDaW075gM&index=35&t=414s"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

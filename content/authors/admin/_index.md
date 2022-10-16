@@ -6,14 +6,15 @@ title: Matthew Docherty
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in AstroInformatics
+role: Machine Learning | Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Mullard Space Science Laboratory,
-    url: https://www.ucl.ac.uk/mssl/people/matthew-docherty
-  - name: University College London
-    url: https://iris.ucl.ac.uk/iris/browse/profile?upi=MMDOX22
+  # - name: Mullard Space Science Laboratory,
+  #   url: https://www.ucl.ac.uk/mssl/people/matthew-docherty
+  # - name: University College London
+  #   url: https://iris.ucl.ac.uk/iris/browse/profile?upi=MMDOX22
+  - name: Glasgow, UK
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Bayesian statistics and deep learning applied to cosmology and time domain astrophysics.
@@ -29,11 +30,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in AstroInformatics
-      institution: Mullard Space Science Laboratory, UCL
-      year: 2021-2025
-    - course: MSci Physics with Astrophysics
-      institution: University of Glasgow
+    - course: PhD - AI for Astrophysics
+      institution: Centre for Data Intensive Science, UCL
+      year: 2022-Present
+    - course: MPhil - Data Intensive Science
+      institution: Centre for Data Intensive Science, UCL
+      year: 2021-2022
+    - course: MSci - Physics with Astrophysics
+      institution: SUPA, University of Glasgow
       year: 2016-2021
 
 # Social/Academic Networking
@@ -43,19 +47,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:matthew.docherty.21@ucl.ac.uk'
+    link: 'mailto:mmdocherty@outlook.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/mdochertyastro
+    link: https://twitter.com/mm_docherty
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=CJWk9dIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/mdochertyastro
+    link: https://github.com/mmdocherty
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mdochertyastro
+    link: https://www.linkedin.com/in/mmdocherty
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-2533-4077
@@ -70,10 +74,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-1st year Graduate Student working as part of the [AstroInfo Team @ UCL](http://www.jasonmcewen.org/team/) with [Prof. Jason McEwen](http://www.jasonmcewen.org/) and [Dr Alessio Spurio Mancini](https://www.alessiospuriomancini.com/).
+<!-- 
+1st year Graduate Student working as part of the [AstroInfo Team @ UCL](http://www.jasonmcewen.org/team/) with [Prof. Jason McEwen](http://www.jasonmcewen.org/) and [Dr Alessio Spurio Mancini](https://www.alessiospuriomancini.com/). -->
