@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/mdochertyastro
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/mdochertyastro
 # url_code: "https://github.com/astro-informatics/harmonic"
 # url_pdf: "slides/bdl_paris.pdf"
 url_slides: "slides/msci_pres.pdf"

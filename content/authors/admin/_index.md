@@ -6,15 +6,15 @@ title: Matthew Docherty
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning | Data Scientist
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  # - name: Mullard Space Science Laboratory,
-  #   url: https://www.ucl.ac.uk/mssl/people/matthew-docherty
+  - name: Oldbaum Services Ltd.
+    url: http://www.oldbaumservices.co.uk/
   # - name: University College London
   #   url: https://iris.ucl.ac.uk/iris/browse/profile?upi=MMDOX22
-  - name: Glasgow, UK
+  # - name: Glasgow, UK
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Bayesian statistics and deep learning applied to cosmology and time domain astrophysics.
